@@ -1,0 +1,18 @@
+body{
+    background-color: rgb(223, 227, 255);
+}
+
+#title {
+    font-size: 45px;
+    font-family:cursive;
+}
+
+#menu {
+    font-family: "Lucida Console", "Courier New", monospace;
+    font-size: 20px;
+    text-align: center;
+    background-color: azure;
+    color: rgb(0, 0, 0);
+
+
+}
